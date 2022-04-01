@@ -17,5 +17,5 @@ From the command line, run: <br />
 
 To Run these GUI Applications/Games locally.
   ```
-    (testEnv) D:\tkinter\python Games\Find_a_color_select.py
+    (testEnv) D:\tkinter\Games\Find_a_color_select.py
   ```
